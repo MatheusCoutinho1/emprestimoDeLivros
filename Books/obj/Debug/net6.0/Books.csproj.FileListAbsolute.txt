@@ -66,3 +66,4 @@ C:\Users\Matheus\Desktop\Books\Books\obj\Debug\net6.0\refint\Books.dll
 C:\Users\Matheus\Desktop\Books\Books\obj\Debug\net6.0\Books.pdb
 C:\Users\Matheus\Desktop\Books\Books\obj\Debug\net6.0\Books.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\Books\Books\obj\Debug\net6.0\ref\Books.dll
+C:\Users\Matheus\Desktop\Books\Books\bin\Debug\net6.0\efpt.config.json

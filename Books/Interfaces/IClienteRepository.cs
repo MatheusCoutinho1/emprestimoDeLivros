@@ -6,8 +6,9 @@ namespace Books.Interfaces
     {
         void Incluir(Cliente cliente);
         void Alterar(Cliente cliente);
-        void Excluir(int id);
+        void Excluir(Cliente cliente);
         Task<Cliente> SelecionarByPk(int id);
         Task<IEnumerable<Cliente>> SelecionarTodos();
+        Task<bool> SaveAllAsync();
     }
 }
